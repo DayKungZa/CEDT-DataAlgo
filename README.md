@@ -1,2 +1,2 @@
-# CEDT-DataAlgo
-My data and algo study files
+# CEDT-ComProg
+My Com Prog files
